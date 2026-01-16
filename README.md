@@ -1,6 +1,5 @@
 # -FUTURE_CS-02
 Project: -FUTURE_CS-02
-Description: task 2
 
 Overview:
 This repository contains the deliverables and supporting files for "task 2" of the -FUTURE_CS-02 exercise. The purpose of this README is to explain what the project is, how to use it, and where to find the main files.

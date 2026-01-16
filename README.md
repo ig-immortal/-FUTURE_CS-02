@@ -1,4 +1,4 @@
-# -FUTURE_CS-02
+# FUTURE_CS-02
 Project: -FUTURE_CS-02
 
 Overview:
